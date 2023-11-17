@@ -1,7 +1,7 @@
 ---
 layout: page
 title: THIS IS A CONVICTED PEDOPHILE
-subtitle: 33 different sexual assault charges, but is still one ugly ass motherfucker.
+subtitle: 33 different sexual assault charges, still one ugly ass motherfucker.
 comments: true
 ---
 ![pedo](https://raw.githubusercontent.com/XyrelMC/xyrelmc.github.io/main/assets/img/marcuz.png.jpg)
