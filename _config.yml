@@ -20,6 +20,7 @@ author: Xyrelium
 ###############################################
 
 navbar-links:
+  About Me: "aboutme"
   Discord: "https://discord.gg/7kHPPY8KDU"
 
 ################
@@ -116,7 +117,7 @@ edit_page_button: false
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "Xyrelium"
 
 ######################################
 # --- Colours / background image --- #
