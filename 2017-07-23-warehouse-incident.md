@@ -11,6 +11,8 @@ author: Ahmed Rasheen
 
 **JULY 2017, PAHANG, MALAYSIA** - The royal Malaysian police was met with an absolutely bizzare case early in the morning, at 8:36 A.M. when they received reports of a newly destroyed warehouse in Pahang, and that multiple bodies were discovered at the aforementioned location. When the police arrived, they counted a total of 30 dead bodies scattered around the ruins of the warehouse. 
 
+![warehouse](https://raw.githubusercontent.com/XyrelMC/xyrelmc.github.io/main/assets/img/warehouse.jpg)
+
 > "There were evident signs of an intense shootout in the warehouse, as seen by the various bullet holes in what remains of the walls", - lead investigator Mahmed bin Faidah. 
 
 Evidence has also been discovered that points to the warehouse housing terrorist activity in the past.
