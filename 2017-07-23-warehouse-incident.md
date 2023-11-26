@@ -5,6 +5,6 @@ subtitle: "There was evidence of gunshots and multiple firefights throughout the
 cover-img: /assets/img/discord.png
 thumbnail-img: /assets/img/dicon.png
 share-img: /assets/img/path.jpg
-tags: [discord]
-author: your lord and savior Xyrelium
+tags: [news]
+author: Ahmed Rashun
 ---
