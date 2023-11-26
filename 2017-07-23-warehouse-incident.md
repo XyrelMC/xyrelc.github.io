@@ -9,7 +9,7 @@ tags: [news]
 author: Ahmed Rasheen
 ---
 
-**JULY 2017, PAHANG, MALAYSIA** - The royal Malaysian police was met with an absolutely bizzare case early in the morning, at 8:36 A.M. when they received reports of a newly destroyed warehouse in Pahang, and that multiple bodies were discovered at the aforementioned location. When the police arrived, they counted a total of 30 dead bodies scattered around the ruins of the warehouse. 
+**JULY 2017, PAHANG, MALAYSIA** - The royal Malaysian police was met with an absolutely bizzare case early in the morning, at 8:36 A.M. when they received reports of a newly destroyed warehouse in Pahang from nearby villagers who heard a loud explosion the night before, and had also unconvered multiple human bodies at the aforementioned location. When the police arrived, they counted a total of 30 dead bodies scattered around the ruins of the warehouse. 
 
 ![warehouse](https://raw.githubusercontent.com/XyrelMC/xyrelmc.github.io/main/assets/img/warehouse.jpg)
 
