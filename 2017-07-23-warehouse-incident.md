@@ -15,6 +15,8 @@ author: Ahmed Rasheen
 
 > "There were evident signs of an intense shootout in the warehouse, as seen by the various bullet holes in what remains of the walls", - lead investigator Mahmed bin Faidah. 
 
+![police](https://raw.githubusercontent.com/XyrelMC/xyrelmc.github.io/main/assets/img/polis.jpg)
+
 Evidence has also been discovered that points to the warehouse housing terrorist activity in the past.
 
 > "I believe that the explosion and the firefight was a result of possibly an internal skirmish between the terrorists" - Detective Taamir bin Maisara
