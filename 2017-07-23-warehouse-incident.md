@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Join my discord 
-subtitle: or you will step on a lego tonight
+title: 30 killed in mysterious warehouse explosion in Malaysia
+subtitle: "There were signs of intense firefight prior to the explosion", says Malaysian police
 cover-img: /assets/img/discord.png
 thumbnail-img: /assets/img/dicon.png
 share-img: /assets/img/path.jpg
-tags: [discord]
-author: your lord and savior Xyrelium
+tags: [news]
+author: Ahmed Rasheen
 ---
 
-Join my fucking discord now losers: https://discord.gg/WGVSpu3JMv
+JULY 2017 -
 
