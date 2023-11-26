@@ -1,12 +1,13 @@
-
 ---
 layout: post
-title: 30 killed in mysterious warehouse explosion in Pahang, Malaysia
-subtitle: "There was evidence of gunshots and multiple firefights throughout the remains of the warehouse", says Malaysian Police
+title: Join my discord 
+subtitle: or you will step on a lego tonight
 cover-img: /assets/img/discord.png
 thumbnail-img: /assets/img/dicon.png
 share-img: /assets/img/path.jpg
-tags: [news]
-author: Ahmed Rashun
+tags: [discord]
+author: your lord and savior Xyrelium
 ---
-sd
+
+Join my fucking discord now losers: https://discord.gg/WGVSpu3JMv
+
